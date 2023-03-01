@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="5%">
+
+This is where I handle my studies, fiddle with open source stuff and personal passion projects :rocket:
+
+![Regularmute's GitHub stats](https://github-readme-stats.vercel.app/api?username=Regularmute&count_private=true&show_icons=true&hide=stars,issues&theme=synthwave)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats card</a> by anuraghazra
+
 
 <!--
 **Regularmute/Regularmute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
