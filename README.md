@@ -6,6 +6,7 @@ This is where I handle my studies, fiddle with open source stuff and personal pa
 
 <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats card</a> by anuraghazra
 
+## My projects
 
 ### <a href="https://damp-pond-117.fly.dev/">Phonebook app</a>
 
