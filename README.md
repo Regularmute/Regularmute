@@ -8,9 +8,13 @@ This is where I handle my studies, fiddle with open source stuff and personal pa
 
 ## My projects
 
+### <a href="https://card-tracker.fly.dev/">Card Tracking app (wip)</a>
+
+Technologies used: PostgreSQL, Python3, Poetry. Hosted by <a href="https://fly.io/">Fly.io</a>.
+
 ### <a href="https://damp-pond-117.fly.dev/">Phonebook app</a>
 
-Feel free to experiment with it! Technologies used are React.js, node.js, MongoDB and Javascript. Hosted by <a href="https://fly.io/">Fly.io</a>.
+Technologies used: React.js, node.js, MongoDB and Javascript. Hosted by <a href="https://fly.io/">Fly.io</a>.
 
 Made during <a href="https://fullstackopen.com/en/">Full Stack Open</a>
 
