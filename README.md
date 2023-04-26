@@ -2,10 +2,6 @@
 
 This is where I handle my studies, fiddle with open source stuff and personal passion projects :rocket:
 
-![Regularmute's GitHub stats](https://github-readme-stats.vercel.app/api?username=Regularmute&count_private=true&show_icons=true&hide=stars,issues&theme=synthwave)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats card</a> by anuraghazra
-
 ## My projects
 
 ### <a href="https://card-tracker.fly.dev/">Card Tracking app (wip)</a>
