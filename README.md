@@ -4,9 +4,13 @@ This is where I handle my studies, fiddle with open source stuff and personal pa
 
 ## My projects
 
-### <a href="https://card-tracker.fly.dev/">Card Tracking app (wip)</a>
+### <a href="https://card-tracker.fly.dev/">Card Tracking web-app</a>
 
 Technologies used: PostgreSQL, Python3, Flask. Hosted by <a href="https://fly.io/">Fly.io</a>.
+
+### <a href="https://github.com/Regularmute/ot-harjoitustyo">Pathfinder Character Sheet 2E</a>.
+
+Technologies used: SQLite3, Python3, Poetry. Most of the documentation is in Finnish.
 
 ### <a href="https://damp-pond-117.fly.dev/">Phonebook app</a>
 
