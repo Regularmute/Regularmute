@@ -4,7 +4,7 @@ This is where I handle my studies, fiddle with open source stuff and personal pa
 
 ## My projects
 
-### <a href="https://github.com/Regularmute/Connect4">Minimax-Algorithm for Connect 4 with alpha-beta pruning.</a>.
+### <a href="https://github.com/Regularmute/Connect4">Minimax-Algorithm for Connect 4 with alpha-beta pruning</a>.
 
 Technologies used: Python3, Poetry, Pytest.
 
