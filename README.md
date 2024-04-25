@@ -4,6 +4,11 @@ This is where I store my university and hobby projects :rocket:
 
 ## University projects
 
+### <a href="https://github.com/Ohtuilmo/ohtuilmo">Registration Application for Helsinki University's Software Engineering Project Course</a>
+A legacy application with many participants from multiple years. Spent 6 months updating it with a team.
+
+Technologies used: Github projects, Openshift, Docker, Javascript, React, redux, NodeJS, MaterialUI, PostgreSQL, Cypress and more
+
 ### <a href="https://github.com/Regularmute/Connect4">Minimax-Algorithm for Connect 4 with alpha-beta pruning</a>.
 
 Technologies used: Python3, Poetry, Pytest.
